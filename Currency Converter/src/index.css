@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#inp::-webkit-inner-spin-button, 
+#inp::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
